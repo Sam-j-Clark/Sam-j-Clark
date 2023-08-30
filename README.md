@@ -6,4 +6,4 @@ Projects that have been 'completed' will typically have my post mortem thoughts 
 
 
 
-[<img alt=LinkedIn src="https://github.com/Sam-j-Clark/Sam-j-Clark/assets/83252922/3b92e8cd-edeb-434e-a633-43a1a0f664ec" width="100"/>](https://www.linkedin.com/in/sam-clark-295158205/)
+[<img alt="LinkedIn" width="80px" src="https://github.com/Sam-j-Clark/Sam-j-Clark/assets/83252922/3b92e8cd-edeb-434e-a633-43a1a0f664ec" />](https://www.linkedin.com/in/sam-clark-295158205/)
