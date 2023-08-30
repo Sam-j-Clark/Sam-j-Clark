@@ -6,3 +6,8 @@ Projects that have been 'completed' will typically have my post mortem thoughts 
 
 
 [LinkedIn](https://www.linkedin.com/in/sam-clark-295158205/)
+
+
+<p align="center">
+<a href="https://www.linkedin.com/in/sam-clark-295158205/"><img src="https://md-buttons.francoisvoron.com/button.svg?text=Buy%20me%20a%20coffee%20%E2%98%95%EF%B8%8F&bg=ef4444&w=200&h=50"></a>
+</p>
