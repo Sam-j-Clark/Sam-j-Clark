@@ -5,9 +5,6 @@ My goal with my Github account is not only to share my proudest work, but also t
 Projects that have been 'completed' will typically have my post mortem thoughts on them. This includes my key learnings and a brief reflection containing my thoughts on the project. My aim with this is to draw a picture of learnings and progress on my Software Engineering journey.
 
 
-![image](https://github.com/Sam-j-Clark/Sam-j-Clark/assets/83252922/fa39061b-5b42-4012-a058-e65e8c4d67ca)
-
-
 <!--
 **Sam-j-Clark/Sam-j-Clark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
