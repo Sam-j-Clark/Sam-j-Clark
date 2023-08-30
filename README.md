@@ -5,9 +5,10 @@ My name is Sam Clark and I am a Software engineering student. My goal with my Gi
 Projects that have been 'completed' will typically have my post mortem thoughts on them. This includes my key learnings and a brief reflection containing my thoughts on the project. My aim with this is to draw a picture of learnings and progress on my Software Engineering journey.
 
 
-[LinkedIn](https://www.linkedin.com/in/sam-clark-295158205/)
-
 
 <p align="center">
-<a href="https://www.linkedin.com/in/sam-clark-295158205/"><img src="https://md-buttons.francoisvoron.com/button.svg?text=Buy%20me%20a%20coffee%20%E2%98%95%EF%B8%8F&bg=ef4444&w=200&h=50"></a>
+<a href="https://www.linkedin.com/in/sam-clark-295158205/">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" class="mercado-match" width="24" height="24" focusable="false">
+      <path d="M20.5 2h-17A1.5 1.5 0 002 3.5v17A1.5 1.5 0 003.5 22h17a1.5 1.5 0 001.5-1.5v-17A1.5 1.5 0 0020.5 2zM8 19H5v-9h3zM6.5 8.25A1.75 1.75 0 118.3 6.5a1.78 1.78 0 01-1.8 1.75zM19 19h-3v-4.74c0-1.42-.6-1.93-1.38-1.93A1.74 1.74 0 0013 14.19a.66.66 0 000 .14V19h-3v-9h2.9v1.3a3.11 3.11 0 012.7-1.4c1.55 0 3.36.86 3.36 3.66z"></path>
+</svg>
 </p>
