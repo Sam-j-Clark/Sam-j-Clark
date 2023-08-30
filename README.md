@@ -6,5 +6,5 @@ Projects that have been 'completed' will typically have my post mortem thoughts 
 
 
 <a href="https://www.linkedin.com/in/sam-clark-295158205/">
-  <img src="https://github.com/Sam-j-Clark/Sam-j-Clark/assets/83252922/3b92e8cd-edeb-434e-a633-43a1a0f664ec" alt="LinkedIn" width="100" />
+  <img src="assets/83252922/3b92e8cd-edeb-434e-a633-43a1a0f664ec" alt="LinkedIn" width="100" />
 </a>
