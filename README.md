@@ -8,5 +8,6 @@ Projects that have been 'completed' will typically have my post mortem thoughts 
 
 <p align="center">
 <a href="https://www.linkedin.com/in/sam-clark-295158205/">
-  <img src="https://github.com/Sam-j-Clark/Sam-j-Clark/assets/83252922/5a0d6981-27c5-4e52-9837-9c40ee940039"></a>
+  <img src="./LI-In-Bug.png">
+</a>
 </p>
